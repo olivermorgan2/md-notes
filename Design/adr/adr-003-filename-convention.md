@@ -1,6 +1,6 @@
 # ADR-003: Filename convention — `YYYY-MM-DD-slug.md` with numeric collision suffix
 
-**Status:** proposed
+**Status:** accepted
 **Date:** 2026-05-02
 
 ## Context

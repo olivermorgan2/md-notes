@@ -1,6 +1,6 @@
 # ADR-002: Configuration surface — flag > env > file > default
 
-**Status:** proposed
+**Status:** accepted
 **Date:** 2026-05-02
 
 ## Context

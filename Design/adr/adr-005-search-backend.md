@@ -1,6 +1,6 @@
 # ADR-005: Search backend — in-process scan in Go
 
-**Status:** proposed
+**Status:** accepted
 **Date:** 2026-05-02
 
 ## Context

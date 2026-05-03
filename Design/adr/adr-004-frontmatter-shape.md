@@ -1,6 +1,6 @@
 # ADR-004: Frontmatter shape — minimal YAML (`title`, `date`, `tags: []`)
 
-**Status:** proposed
+**Status:** accepted
 **Date:** 2026-05-02
 
 ## Context
