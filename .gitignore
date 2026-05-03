@@ -1,2 +1,9 @@
 .DS_Store
 *.swp
+
+# Go build output
+/bin/
+*.exe
+*.test
+*.out
+coverage.txt
